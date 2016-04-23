@@ -19,7 +19,7 @@ or via `bower`
 
 [Please open a new issue](https://github.com/suchorski/bootstrap-filestrap/issues)
 
-** Please tell about the issue **
+####**Please tell about the issue**
 * Browser
 * Plugins
 * Others...
