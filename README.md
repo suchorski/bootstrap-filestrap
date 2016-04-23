@@ -1,6 +1,8 @@
 # bootstrap-filestrap
 Bootstrap FileStrap is a simple plugin to help you stylize file entries of your form.
 
+Maintained by [Thiago Suchorski](https://github.com/suchorski) [@suchorski](https://facebook.com/suchorski)
+
 ------------------------------------------------------------------------------------
 
 ###**Please send to (issues) problems with the plugin, also send mode details as:**
@@ -13,8 +15,6 @@ Bootstrap FileStrap is a simple plugin to help you stylize file entries of your 
 
 ------------------------------------------------------------------------------------
 
-Maintained by [Thiago Suchorski](https://github.com/suchorski) [@suchorski](https://facebook.com/suchorski)
-
 ## Found a bug?
 
 [Please open a new issue](https://github.com/suchorski/bootstrap-filestrap/issues)
@@ -25,9 +25,9 @@ MIT Licence.
 
 ------------------------------------------------------------------------------------
 
-# How to use
+## How to use
 
-## Default options:
+### Default options:
 
     browserText: ''
     hasTrash: true
