@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-filestrap",
+  "version": "1.0.0",
+  "description": "Bootstrap FileStrap is a simple plugin to help you stylize file entries of your form.",
+  "main": "src/bootstrap-filestrap.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchorski/bootstrap-filestrap.git"
+  },
+  "keywords": [
+    "jquery",
+    "bootstrap",
+    "fileupload",
+    "filestrap"
+  ],
+  "author": "Thiago Suchorski @suchorski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suchorski/bootstrap-filestrap/issues"
+  },
+  "homepage": "https://github.com/suchorski/bootstrap-filestrap#readme"
+}
