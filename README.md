@@ -43,7 +43,7 @@ MIT Licence.
 $('#id').filestrap(options);
 ```
 
-### To clear it`s contents
+### To clear it's content
 ```js
 $('#id').filestrap('clear');
 ```
