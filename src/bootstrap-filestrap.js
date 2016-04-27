@@ -7,12 +7,12 @@
 			var filestraped = ($this.prop('filestrap') == true);
 			if (filestraped) {
 				switch (option) {
-				case 'enable':
+				case 'enabled':
 					var $trash = $this.parents().eq(1).children('[data-fs-id="buttonTrash"]');
 					$this.parent().removeClass('disabled');
 					$trash.prop('disabled', false).removeClass('disabled');
 					break;
-				case 'disable':
+				case 'disabled':
 					var $trash = $this.parents().eq(1).children('[data-fs-id="buttonTrash"]');
 					$this.parent().addClass('disabled');
 					$trash.prop('disabled', true).addClass('disabled');
