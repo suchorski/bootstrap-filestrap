@@ -43,6 +43,21 @@ MIT Licence.
 $('#id').filestrap(options);
 ```
 
+### To enable
+```js
+$('#id').prop('disabled', false).filestrap('enabled');
+```
+
+### To disable
+```js
+$('#id').prop('disabled', true).filestrap('disabled');
+```
+
+### To change classes of the input file name instead of the input file
+```js
+$('#id').filestrap('addClass | toggleClass | removeClass', 'class');
+```
+
 ### To clear it's content
 ```js
 $('#id').filestrap('clear');
