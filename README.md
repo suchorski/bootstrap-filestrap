@@ -24,11 +24,6 @@ or via `bower`
 * Plugins
 * Others...
 
-### Copyright and license
-
-MIT Licence.
-
-
 ## How to use
 
 ### Default options:
@@ -50,5 +45,5 @@ $('#id').filestrap('clear');
 
 ### To change the placeholder
 ```js
-$('#id').filestrap('placeholder', 'new placeholder');
+$('#id').filestrap('placeholder', 'new placeholder text');
 ```
